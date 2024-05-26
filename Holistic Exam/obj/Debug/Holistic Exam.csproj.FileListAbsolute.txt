@@ -1,0 +1,28 @@
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\bin\Debug\Holistic Exam.exe.config
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\bin\Debug\Holistic Exam.exe
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\bin\Debug\Holistic Exam.pdb
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\bin\Debug\EntityFramework.dll
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\bin\Debug\EntityFramework.xml
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\obj\Debug\Holistic Exam.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\obj\Debug\Profile_Page.g.cs
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\obj\Debug\Sign in.g.cs
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\obj\Debug\Sign Up.g.cs
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\obj\Debug\Holistic Exam_Content.g.cs
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\obj\Debug\Holistic Exam_MarkupCompile.cache
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\obj\Debug\Holistic Exam_MarkupCompile.lref
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\obj\Debug\Profile_Page.baml
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\obj\Debug\Sign in.baml
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\obj\Debug\Sign Up.baml
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\obj\Debug\Holistic Exam.g.resources
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\obj\Debug\Holistic_Exam.Properties.Resources.resources
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\obj\Debug\Holistic Exam.csproj.GenerateResource.cache
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\obj\Debug\Holistic Exam.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\obj\Debug\Holistic Exam.csproj.CopyComplete
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\obj\Debug\Holistic Exam.exe
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\obj\Debug\Holistic Exam.pdb
+C:\Users\IT\Desktop\Holistic Exam\Holistic Exam\obj\Debug\App.baml
